@@ -7,9 +7,7 @@ The site can visible here
 [Smart Tech](https://smart-tech-42a1ef4a43e4.herokuapp.com)
 
 
-## Visit Website here
-
-
+## Visit Website here[Smart Tech](https://smart-tech-42a1ef4a43e4.herokuapp.com)
 
 
 ## Main Languages Used 
@@ -71,6 +69,13 @@ The site can visible here
 - **ContactForm**: Manages customer inquiries or messages.
 
 <img width="1111" alt="Screenshot 2024-10-23 at 9 12 03 AM" src="https://github.com/user-attachments/assets/57424eda-3c2b-412b-bcc1-40f8cd8acd65">
+
+## Agile Planing 
+I have used MOSCOW Board as mentioned in MVP to plan my project . It really help me to onboard my project & review all the funtionality an ongoing process. I have divide Whole project in 6 Bigger Milestones. Every milestone has some user stories(as mentioned above). According to requirement I label my issues accordingly. Complete board review can be visible through link & below I have given some screens to review 
+<img width="1280" alt="Screenshot 2024-10-23 at 8 47 25 AM" src="https://github.com/user-attachments/assets/906f3c5f-2cf6-44a2-b899-33276d47f2f3">
+
+
+
 
 ## Design & Typography 
 #### User Experience 
