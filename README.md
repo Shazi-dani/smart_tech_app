@@ -75,6 +75,9 @@ I have used MOSCOW Board as mentioned in MVP to plan my project . It really help
 
 [Smart Tech MOSCOW Agile Board](https://github.com/users/Shazi-dani/projects/7)
 <img width="1280" alt="Screenshot 2024-10-23 at 8 47 25 AM" src="https://github.com/user-attachments/assets/906f3c5f-2cf6-44a2-b899-33276d47f2f3">
+#### Lables & Milestones
+<img width="697" alt="Screenshot 2024-10-23 at 3 22 00 AM" src="https://github.com/user-attachments/assets/8a7b5db4-ea15-4c4c-b6e0-c9b4a239df25"><img width="1265" alt="Screenshot 2024-10-23 at 3 18 09 AM" src="https://github.com/user-attachments/assets/2f13fcc8-d3c9-46d6-b355-834de23ef661">
+
 
 
 
